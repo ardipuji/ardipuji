@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to My GitHub Profile
 
 <!--
 **ardipuji/ardipuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Ardi Banner](img/github-header-banner.png)
