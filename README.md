@@ -1,4 +1,4 @@
-## Welcome to My GitHub Profile
+## My GitHub Profile
 
 <!--
 **ardipuji/ardipuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 ![Ardi Banner](img/github-header-banner.png)
 
-- 🌱 I’m currently learning **Python**
+**Welcome to my GitHub profile!** 👋 I am a Software Engineering student living in **Indonesia**. I am currently learning **Python**. Here, you can see various practice projects and code experiments I am working on. I am always open to discussions, learning new things, and collaboration.
+
+##### Skills
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+---
