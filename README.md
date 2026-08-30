@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Ardi Banner](img/github-header-banner.png)
+
+- 🌱 I’m currently learning **Python**
