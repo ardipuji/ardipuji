@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ---
 #### My Github Stats
-![ardipuji GitHub stats](https://github-stats-extended.vercel.app/api?username=ardipuji&show_icons=true&theme=tokyonight)
 
+![Ardi's GitHub stats](https://github-stats-extended.vercel.app/api?username=ardipuji&show_icons=true&theme=tokyonight)
 ---
