@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![Ardi Banner](img/github-header-banner.png)
 
-**Welcome to my GitHub profile!** 👋 I am a Software Engineering student living in **Indonesia**. I am currently learning **Python**. Here, you can see various practice projects and code experiments I am working on. I am always open to discussions, learning new things, and collaboration.
+**Welcome to my GitHub profile!** 👋 I am a Software Engineering student living in **Indonesia**. I am currently learning **Python, C++, and C**. Here, you can see various practice projects and code experiments I am working on. I am always open to discussions, learning new things, and collaboration.
 
-##### Skills
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+#### Skills
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 ---
