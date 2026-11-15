@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 **Welcome to my GitHub profile!** 👋 I am a Software Engineering student living in **Indonesia**. I am currently learning **Python, C++, C, and Godot**. Here, you can see various practice projects and code experiments I am working on. I am always open to discussions, learning new things, and collaboration.
 
+---
 #### Skills
 [![Python](https://skillicons.dev/icons?i=python,cpp,c,godot)](https://skillicons.dev)
+
+---
+#### My Github Stats
+![ardipuji GitHub stats](https://github-stats-extended.vercel.app/api?username=ardipuji&show_icons=true&theme=tokyonight)
 
 ---
